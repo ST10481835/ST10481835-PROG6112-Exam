@@ -1,0 +1,8 @@
+productsales\ProductCalculations.class
+com\mycompany\salesreport\SalesReport.class
+productsales\IProduct.class
+productsales\IProductCalculations.class
+productsales\PrintProduct.class
+productsales\Product.class
+productsales\ProductSalesReport.class
+productsales\ProductApp.class
